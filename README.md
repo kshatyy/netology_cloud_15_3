@@ -27,4 +27,4 @@
 
 # с помощью ключа зашифровать содержимое бакета, созданного ранее.
 
-[kms.tf](https://github.com/kshatyy/netology_cloud_15_3/blob/main/bucket.tf)
+[bucket.tf](https://github.com/kshatyy/netology_cloud_15_3/blob/main/bucket.tf)
