@@ -18,8 +18,23 @@
    
 ### Дополнительные материалы, которые могут быть полезны для выполнения задания
 
+### 1 Создать бакет Object Storage и разместить в нём файл с картинкой:
+
+[bucket.tf](https://github.com/kshatyy/netology_cloud_15_2/blob/main/bucket.tf)
+
+### Создать группу ВМ в public подсети фиксированного размера с шаблоном LAMP и веб-страницей, содержащей ссылку на картинку из бакета:
+
+[bucket.tf](https://github.com/kshatyy/netology_cloud_15_2/blob/main/main.tf)
+
+### Подключить группу к сетевому балансировщику:
+
+[bucket.tf](https://github.com/kshatyy/netology_cloud_15_2/blob/main/network.tf)
+
+### Проверить работоспособность, удаляем несколько и одну ВМ.
 
 <img src="img/1.png">
+
+### Проверяем по адресу балансировщика:
 
 <img src="img/2.png">
 
