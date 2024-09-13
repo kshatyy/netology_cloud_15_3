@@ -24,11 +24,11 @@
 
 ### Создать группу ВМ в public подсети фиксированного размера с шаблоном LAMP и веб-страницей, содержащей ссылку на картинку из бакета:
 
-[bucket.tf](https://github.com/kshatyy/netology_cloud_15_2/blob/main/main.tf)
+[main.tf](https://github.com/kshatyy/netology_cloud_15_2/blob/main/main.tf)
 
 ### Подключить группу к сетевому балансировщику:
 
-[bucket.tf](https://github.com/kshatyy/netology_cloud_15_2/blob/main/network.tf)
+[network.tf](https://github.com/kshatyy/netology_cloud_15_2/blob/main/network.tf)
 
 ### Проверить работоспособность, удаляем несколько и одну ВМ.
 
